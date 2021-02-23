@@ -12,3 +12,4 @@ Models are develope applying the following parts below:
 - Part 6. Sampling with Data Normalization
 - Part 7. Sampling with Data Normalization and Outlier detection and removal
 - Part 8. Sampling with Outlier detection and removal
+- Part 9. AutoEncoder
