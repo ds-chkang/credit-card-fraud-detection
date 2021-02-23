@@ -5,4 +5,4 @@ Logistic Regression and LightGBM applied.
 - Part 1. No Data Transformation
 - Part 2. Data Normalization
 - Part 3. Outlier detection and removal
-- Part 3. Sample
+- Part 3. Sampling
