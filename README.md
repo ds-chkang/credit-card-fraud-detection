@@ -1,7 +1,8 @@
 # credit-card-fraud-detection-model
 This is a demonstration to illustrate how to build a credit card fraud detection model.
 Logistic Regression and LightGBM applied.
-Scikit-Learn has been applied to build predictive models.
+Scikit-Learn has been applied to build predictive models. 
+Models are develope applying the following parts below:
 
 - Part 1. No Data Transformation
 - Part 2. Data Normalization
